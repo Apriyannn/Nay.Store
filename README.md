@@ -3,7 +3,7 @@
 
 ## Description
 
-Program NgelakShop ini bertujuan menambahkan item ke sebuah keranjang digital Yang kebutuhan Fungsionalnya :
+Program STORENAY ini bertujuan menambahkan item ke sebuah keranjang digital Yang kebutuhan Fungsionalnya :
 
 - User dapat melihat daftar makanan yang ditawarkan
 - User dapat memasukkan atau menghapus makanan pilihan ke dalam keranjang - User dapat melihat subtotal makanan yang terdapat pada keranjang
