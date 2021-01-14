@@ -1,5 +1,5 @@
 
-## STORENAY
+## STORENAY (Apryan Rizky Saputra 19.11.2810)
 
 ## Description
 
@@ -19,4 +19,4 @@ Berikut beberapa fungsi dari projek ini
 - Penambahan fungsi voucher
 - Penambahan messagebox pada saat menghapus
 
-## TERIMA KASIH (19.11.2810)
+## TERIMA KASIH 
